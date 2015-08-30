@@ -1,5 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: First week in class
 ---
 
+## My thoughts on software engineering so far ##
