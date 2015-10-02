@@ -1,10 +1,11 @@
 ---
 layout: post
 title: First week in class
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 ---
 
 ### My thoughts on software engineering so far ###
+
+<img src = "jekyll-logo.png">
 
 Software Engineering, from what I'd heard from dozens of people, was one of the classes every CS student should take before graduating from UT. Further inquiries from friends revealed that it was also a difficult, albeit a very interesting and useful, class. I didn't really see myself in Software Engineering, partly because getting into classes is a chore. So when registration started, I was able to secure spots in the 2 classes that I absolutely needed and was put on the waitlist for Software Engineering. I was 61 in the waitlist, so I figured my chances were really slim.
 
