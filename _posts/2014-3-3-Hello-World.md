@@ -1,6 +1,6 @@
-<img src = "http://www.councilforthenationalinterest.org/new/wp-content/uploads/2014/06/wikipedia.jpg">
 ---
 layout: post
+<img src = "http://www.councilforthenationalinterest.org/new/wp-content/uploads/2014/06/wikipedia.jpg">
 title: First week in class
 ---
 
