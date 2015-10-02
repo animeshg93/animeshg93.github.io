@@ -2,7 +2,7 @@
 layout: post
 title: First week in class
 ---
-<img src = "http://www.councilforthenationalinterest.org/new/wp-content/uploads/2014/06/wikipedia.jpg">
+
 ### My thoughts on software engineering so far ###
 
 
