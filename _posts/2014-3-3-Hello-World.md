@@ -1,9 +1,11 @@
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
 ---
 layout: post
 title: First week in class
 ---
 
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
 ### My thoughts on software engineering so far ###
 
