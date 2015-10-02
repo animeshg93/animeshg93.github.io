@@ -1,4 +1,4 @@
-<img src = "http://i.huffpost.com/gen/1758711/images/o-HORSE-facebook.jpg">---
+---
 layout: post
 title: First week in class
 ---
