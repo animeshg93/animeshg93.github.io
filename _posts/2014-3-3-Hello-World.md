@@ -1,8 +1,7 @@
 
 ---
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
-
 layout: post
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 title: First week in class
 ---
 
