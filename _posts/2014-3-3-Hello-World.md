@@ -1,9 +1,9 @@
+<img src = "http://www.councilforthenationalinterest.org/new/wp-content/uploads/2014/06/wikipedia.jpg">
 ---
 layout: post
 title: First week in class
 ---
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/5/53/Wikipedia-logo-en-big.png">
 ### My thoughts on software engineering so far ###
 
 
