@@ -1,7 +1,8 @@
 ---
-layout:post
+layout: post
 title: Final week
 ---
+
 
 ###Presentations and final exam
 
